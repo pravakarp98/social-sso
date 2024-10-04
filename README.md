@@ -10,3 +10,4 @@ Features include:
 - Backend authentication flow for seamless integration with frontend frameworks.
 
 This repo is ideal for projects that need quick and secure user authentication with minimal setup using external identity providers.
+
